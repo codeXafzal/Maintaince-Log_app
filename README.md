@@ -5,6 +5,8 @@
 ## **Contract Address**
 `0x6b3942435dFf5216F8A23230c58EADD1641e0Cbe`  
 View on Explorer: https://coston2-explorer.flare.network/address/0x6b3942435dFf5216F8A23230c58EADD1641e0Cbe
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/813aeaab-07ea-4845-ae54-da91b015d09e" />
+
 
 ---
 
